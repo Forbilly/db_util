@@ -14,4 +14,4 @@
 
 
 
-![懒加载数据库封装](E:\other_prj\db_util\懒加载数据库封装.png)
+![懒加载数据库封装](https://github.com/Forbilly/db_util/blob/main/%E6%87%92%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%BA%93%E5%B0%81%E8%A3%85.png)
